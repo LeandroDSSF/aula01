@@ -1,0 +1,6 @@
+Exercicio
+
+Uma caixa d'água cilindrica de altura A e raio R comporta quantos m³de água?
+
+Observe que os valores de A e R são fornecidos em metro
+Volume = Pi * R² * A  

@@ -1,4 +1,3 @@
-
 package Exercicios;
 import javax.swing.*;
 public class CaixaDagua {
@@ -15,8 +14,7 @@ public class CaixaDagua {
 	    volume = PI * ((raio * raio) * altura);
 	    soma = volume * M_cubo;
     
-   	 JOptionPane.showMessageDialog(null,"Essa Caixa Comporta: " + soma + "m³" );
-
+            JOptionPane.showMessageDialog(null,"Essa Caixa Comporta: " + soma + "m³" );
     
     }    
 }

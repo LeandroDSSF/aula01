@@ -11,7 +11,7 @@ public class CaixaDagua {
 	  altura = Integer.parseInt(JOptionPane.showInputDialog("Digite a Altura:\n"));
 	  raio = Integer.parseInt(JOptionPane.showInputDialog("Digite o Raio:"));
 	    
-	    volume = PI * ((raio * raio) * altura);
+    volume = PI * ((raio * raio) * altura);
 	    soma = volume * M_cubo;
     
           JOptionPane.showMessageDialog(null,"Essa Caixa Comporta: " + soma + "m³" );
